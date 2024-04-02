@@ -1,6 +1,6 @@
 baseURL = "https://vFormation.io"
 title = "vFormation"
-author = "Wiz Legal"
+author = "vFormation"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -11,7 +11,7 @@ enableRobotsTXT = true
 #hasCJKLanguage = true
 
 # If you're using Google Analytics, you can enable this feature.
-googleAnalytics = "G-SE4861P0W2"
+googleAnalytics = "G-SE4TODOTODO"
 
 # Disqus Comment System
 #disqusShortname = ""
@@ -39,12 +39,12 @@ googleAnalytics = "G-SE4861P0W2"
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "vFormation leverages cutting-edge generative AI technologies to automate and streamline a wide range of legal tasks, from document review and legal research to contract analysis and due diligence"
-    meta_og_title = "vFormation - AI Powered Legal Automation"
+    meta_description = "vFormation is enhancing business innovation and profitability through strategic consulting"
+    meta_og_title = "vFormation - business innovation and profitability"
     meta_og_type = "website"
     meta_og_url = "https://vFormation.io/"
     meta_og_image = "img/logo/vFormation-logo.png"
-    meta_og_description = "vFormation leverages cutting-edge generative AI technologies to automate and streamline a wide range of legal tasks, from document review and legal research to contract analysis and due diligence"
+    meta_og_description = "vFormation is enhancing business innovation and profitability through strategic consulting"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username1"
     meta_twitter_creator = "@username"
