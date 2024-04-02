@@ -1,5 +1,5 @@
 +++
-description = "vFormation Solutions for Legal Automation and AI Powered Legal Services"
+description = "vFormation Bisiness Consulting Solutions"
 title = "Solutions"
 author = "Wiz Legal"
 aliases = ["solutions"]
