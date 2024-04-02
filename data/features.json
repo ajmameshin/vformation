@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Solutions",
+    "description": "Click on Solutions to view our products and services",
+    "icon": "icon-",
+    "link": "/solutions/"
+  },
+  {
+    "title": "Login",
+    "description": "vFormation is now available in Beta!",
+    "icon": "icon-",
+    "link": "/contact/"
+  },
+  {
+    "title": "Contact",
+    "description": "Please contact us about questons, internships, or a proposal",
+    "icon": "icon-",
+    "link": "/contact/"
+  }
+]
