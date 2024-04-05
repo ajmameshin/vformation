@@ -4,7 +4,7 @@ date = "2023-12-12"
 description = "Example text"
 aliases = ["Funding"]
 tags = [
-    "Business Solutions",
+    "Business Funding",
     "Profitability Improvement",
 ]
 image = "/img/legal-ai.png"
