@@ -1,8 +1,8 @@
 +++
-title = "Business Solutions"
+title = "Pitch Deck example for funding"
 date = "2023-12-12"
-description = "Business Solutions"
-aliases = ["solutions"]
+description = "Example text"
+aliases = ["Funding"]
 tags = [
     "Business Solutions",
     "Profitability Improvement",
@@ -10,13 +10,7 @@ tags = [
 image = "/img/legal-ai.png"
 +++
 
-vFormation - enhancing business innovation and profitability through strategic consulting
+This is where you write about the company etc...
 
 ## Focus Areas 
 
-Healthcare Profitability Improvement 
-Medical Device Commercialization 
-Funding &amp; Capital Planning 
-Leadership/Organizational Development 
-Training - Leadership, Business, Lean/LSS, etc. 
-Motivational Speaking

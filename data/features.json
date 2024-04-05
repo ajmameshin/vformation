@@ -1,13 +1,13 @@
 [
   {
-    "title": "Solutions",
-    "description": "Click on Solutions to view our products and services",
+    "title": "Funding",
+    "description": "Click on Funding to view Picth Decks for our existing customers",
     "icon": "icon-",
     "link": "/solutions/"
   },
   {
-    "title": "Login",
-    "description": "vFormation is now available in Beta!",
+    "title": "What We Do",
+    "description": "",
     "icon": "icon-",
     "link": "/contact/"
   },
