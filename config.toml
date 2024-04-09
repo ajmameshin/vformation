@@ -52,27 +52,33 @@ googleAnalytics = "G-SE4TODOTODO"
 [menu]
 
   [[menu.main]]
-    identifier = "blog"
+    identifier = "funding"
     name = "Funding"
-    url = "/Solutions/"
+    url = "/funding/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
     weight = 2
+
+  [[menu.main]]
+    identifier = "products"
+    name = "Products"
+    url = ""
+    weight = 3
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 4
-
-    [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "//"
     weight = 5
 
   # Footer Menu

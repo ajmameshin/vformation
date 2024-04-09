@@ -1,6 +1,6 @@
 +++
-description = "vFormation Bisiness Consulting Funding"
-title = "Funding"
-author = "Wiz Legal"
-aliases = ["Solutions"]
+aliases = ["posts", "articles"]
+title = "Posts"
+author = "vFormation"
+tags = ["index"]
 +++

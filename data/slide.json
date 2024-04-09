@@ -1,7 +1,17 @@
 [
   {
-    "title": "v Formation",
+    "title": "vFormation Strategic Consuling",
     "image": "img/slide/vFormation-home-slide.png",
     "color": "text-white"
+  },
+  {
+    "title": "vFormation Funding",
+    "image": "img/slide/slide01.jpg",
+    "color": "text-white"
+  },
+  {
+    "title": "vFormation Profitability Improvement",
+    "image": "img/slide/slide02.jpg",
+    "color": "text-black"
   }
 ]
