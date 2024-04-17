@@ -1,5 +1,5 @@
 +++
 title = "Funding"
-author = "vFormation"
+author = "vformation"
 tags = ["index"]
 +++

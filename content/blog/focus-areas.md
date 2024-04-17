@@ -9,7 +9,7 @@ tags = [
 image = "/img/legal-ai.png"
 +++
 
-vFormation is empowering healthcare and medical device organizations to achieve peak profitability and innovation.
+vformation is empowering healthcare and medical device organizations to achieve peak profitability and innovation.
 
 #
 * Healthcare Profitability Improvement

@@ -1,6 +1,6 @@
 +++
 aliases = ["posts", "articles"]
 title = "Posts"
-author = "vFormation"
+author = "vformation"
 tags = ["index"]
 +++
