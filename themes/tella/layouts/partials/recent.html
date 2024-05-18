@@ -1,3 +1,4 @@
+
 {{ range first 3 (where site.RegularPages.ByDate.Reverse "Type" "in" site.Params.mainSections )}}
 <a href="{{ .Permalink }}">{{ partial "summary.html" . }}</a>
 {{ end }}
@@ -8,3 +9,67 @@
         All Posts >
     </a>
 </div>
+
+
+
+
+<br>
+<br>
+<br>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Text</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .center-text {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            text-align: center;
+        }
+        .first-line {
+            font-size: 30px; /* Larger font size for the first line */
+        }
+    </style>
+</head>
+<body>
+    <div class="center-text">
+        <p class="first-line">About VFormation</p>
+        <br>
+
+        <p>V Formation is a cutting-edge consulting firm specializing in the dynamic intersection of medical health and technology. From fintech solutions in the healthcare sector to groundbreaking advancements in NanoBio rejuvenation and stem cell research, our expertise spans a broad spectrum of innovative technology domains. We are dedicated to propelling startups and growth-stage entities to new heights, offering tailored support in key areas to ensure their success in the competitive market. <br>
+            <br>
+
+            At V Formation, we are committed to propelling client organizations towards operational 
+            supremacy. Our partnership approach emphasizes optimizing commercialization, leadership, and capitalization. With a focus on streamlined processes and strategic foresight, we aim for 
+            sustainable growth and enhanced profitability. Leveraging the expertise of our seasoned 
+            consultants, we offer tailored solutions that not only foster innovation but also cultivate a culture of continuous improvement and personal & professional evolution." 
+
+
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
